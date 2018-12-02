@@ -1,0 +1,38 @@
+Versão php
+PHP 7.1.17 (cli) (built: Apr 25 2018 08:30:10) ( NTS )
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.1.0, Copyright (c) 1998-2018 Zend Technologies
+
+Versão PHP-FPM
+PHP 7.1.17 (fpm-fcgi) (built: Apr 25 2018 08:32:56)
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.1.0, Copyright (c) 1998-2018 Zend Technologies
+
+***************************************************************
+***************************************************************
+servidor http
+Server version: Apache/2.4.6 (CentOS)
+Server built:   Oct 19 2017 20:39:16
+
+***************************************************************
+***************************************************************
+servidor proxy
+nginx version 1/1.12
+
+***************************************************************
+***************************************************************
+banco de dados
+mysqld  Ver 5.7.22 for Linux on x86_64 (MySQL Community Server (GPL))
+
+***************************************************************
+***************************************************************
+Tecnologias de desenvolvimento backend
+
+dotnetcore --version ->> 2.1.105
+
+node --version ->> 6.14.0
+
+laravel Framework 5.5.40
+
+***************************************************************
+***************************************************************

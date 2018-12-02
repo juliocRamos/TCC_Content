@@ -1,0 +1,23 @@
+H/W path     Device      Class          Description
+===================================================
+                         system         Computer
+/0                       bus            Motherboard
+/0/0                     memory         7687MiB System memory
+/0/1                     processor      Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+/0/100                   bridge         Skylake Host Bridge/DRAM Registers
+/0/100/1                 bridge         Skylake PCIe Controller (x16)
+/0/100/2                 display        HD Graphics 530
+/0/100/14                bus            Sunrise Point-H USB 3.0 xHCI Controller
+/0/100/14.2              generic        Sunrise Point-H Thermal subsystem
+/0/100/16                communication  Sunrise Point-H CSME HECI #1
+/0/100/16.3              communication  Sunrise Point-H KT Redirection
+/0/100/17                storage        Sunrise Point-H SATA controller [AHCI mode]
+/0/100/1c                bridge         Sunrise Point-H PCI Express Root Port #1
+/0/100/1c/0              bridge         XIO2001 PCI Express-to-PCI Bridge
+/0/100/1f                bridge         Sunrise Point-H LPC Controller
+/0/100/1f.2              memory         Memory controller
+/0/100/1f.3              multimedia     Sunrise Point-H HD Audio
+/0/100/1f.4              bus            Sunrise Point-H SMBus
+/0/100/1f.6  enp0s31f6   network        Ethernet Connection (2) I219-LM
+/0/2         scsi1       storage        
+/0/2/0.0.0   /dev/cdrom  disk           DVD+-RW GU90N
