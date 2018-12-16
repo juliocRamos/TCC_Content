@@ -1,0 +1,183 @@
+@{
+    Layout = "_Template";
+}
+<div class="panel panel-default">
+    <div class="panel-heading" style="background-color:#6C429C;">
+        <center><h2 style="color:white;">Lisda de alunos</h2></center>
+    </div> 
+</div>
+
+<div class="row">
+    <table id="myDatatable" class = "table table-striped">
+        <tr>
+            <thead>
+                <th>Ações</th>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>E-mail</th>
+                <th>Idade</th>
+                <th>Sexo</th> 
+            </thead>    
+        </tr>
+        <tbody id="tabela">
+                       
+		</tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Alteração de Dados</h4>
+        </div>
+        <div class="modal-body">
+            <form method="POST" action="" accept-charset="UTF-8"><input type="hidden" value="fnhLmqysGtwXrrureJdIQP2TNEeLcCsgJJDf2beR">  
+            
+                <label for="id">Id</label>
+                <input class="form-control" name="id" type="text" id="id" disabled>
+                
+                <label for="nome">Nome</label>
+                <input class="form-control" placeholder="Nome" name="nome" type="text" id="nome">
+                
+                <label for="email">E-mail</label>
+                <input class="form-control" placeholder="E-mail" name="email" type="email" id="email">
+                
+                <label for="idade">Idade</label>
+                <input class="form-control" placeholder="Idade" name="idade" type="number" id="idade">
+
+                <label for="sexo">Sexo</label>
+                <input class="form-control" placeholder="" name="sexo" type="" id="sexo">               
+                <label for="sexo">Sexo</label>
+                <select id="#sexo" class="form-control" name="sexo">                    
+                    <option value="Feminino">Feminino</option>  
+                    <option value="Masculino">Masculino</option>       
+                </select>
+            </form>
+        </div>
+        <div class="modal-footer">
+            <button type="reset" class="btn btn-default" data-dismiss="modal">Fechar</button>
+            <button type="button" class="btn btn-primary" onclick="atualizarAluno()">Salvar Alterações</button>
+        </div>
+    </div>
+  </div>
+</div>
+
+<script>
+    //script para listar alunos
+    $(document).ready(function(){
+        $.ajax({
+            type:'get',
+            url:'/api/aluno/getall',
+            async: true,
+            success: function(aluno){
+                for(var i=0;aluno.length>i;i++){
+                    $('#tabela').append('<tr class = "row-fadeout"><td><button class="getDados" data-toggle="modal" data-target="#myModal">Alterar</button><button class="deletar">Excluir</button></td><td class="id"> ' + aluno[i].id + 
+                        ' </td><td> ' + aluno[i].nome + ' </td><td> ' + aluno[i].email + ' </td><td> ' + aluno[i].idade +
+                            ' </td><td> ' + aluno[i].sexo + ' </td></tr>');
+			    }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                alert('Erro na requisição: ' + xhr.status + ' --> ' + thrownError);
+            },
+
+        });
+    });    
+  
+</script>
+
+
+
+<script>
+    //script para deletar
+    $(document).on("click", ".deletar", function(){
+        var row = $(this).closest('tr');
+        var valor = $(this).parent().parent().find('.id');
+        var idEdit = valor.html();
+        $.ajax({
+            type: 'POST',
+            async: true,
+            url: '/api/aluno/destroy',
+            data: {
+                'id':idEdit,
+            },
+            success: function(data){
+                if(data == "success"){
+                    alert("Dados deletados!!");
+                    row.fadeOut();
+                }
+                else{
+                    alert(data);
+                }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                alert('Erro: '+xhr.status+' --> '+thrownError);
+            },
+        });
+    });
+
+    $(document).on("click", ".getDados", function(){
+        var valor = $(this).parent().parent().find('.id');
+        var idEdit = valor.html();
+        $.ajax({
+            type: 'POST',
+            async: true,
+            url: '/api/aluno/getAluno/',
+            data: {
+                'id':idEdit,
+            },
+            success: function(aluno){
+                if(aluno.status == "error"){
+                    alert("Erro ao buscar os dados do aluno");
+                }
+                else{
+                    $("#id").val(aluno.id);
+                    $("#nome").val(aluno.nome);
+                    $("#email").val(aluno.email);
+                    $("#idade").val(aluno.idade);
+                    $("#sexo").val(aluno.sexo);
+                }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                alert('Erro: '+xhr.status+' --> '+thrownError);
+            },
+        });
+    });
+
+
+//Função para envia-los ao banco
+    function atualizarAluno(){
+        var idEdit = $('#id').val();
+        var nome = $('#nome').val();
+        var email = $('#email').val();
+        var idade = $('#idade').val();
+        var sexo = $('#sexo').val();
+        $.ajax({
+            type: 'POST',
+            url: '/api/aluno/update',
+            async: true,
+            data: {
+                'id':idEdit,
+                'nome': nome,
+                'email': email,
+                'idade': idade,
+                'sexo': sexo
+            },
+            success: function(data){
+                if(data == "error"){
+                    alert("Error ao atualizar os dados");
+                }
+                else{
+                    alert('Dados do aluno foram alterados!!');
+                }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+            alert('Erro: ' + xhr.status + ' --> ' + thrownError);
+            },
+        });
+    }
+
+</script>
+

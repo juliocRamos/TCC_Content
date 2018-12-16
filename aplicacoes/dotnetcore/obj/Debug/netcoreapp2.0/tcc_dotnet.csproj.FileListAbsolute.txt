@@ -1,0 +1,140 @@
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/home/jramos/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/home/jramos/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Desktop/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/x86/e_sqlite3.dll
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/x64/e_sqlite3.dll
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Desktop/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/x86/e_sqlite3.dll
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/x64/e_sqlite3.dll
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Desktop/New folder/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/home/jramos/dotnet/Asp.Net-Application/tcc_dotnet/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/tcc_dotnet/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+<<<<<<< HEAD
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/x86/e_sqlite3.dll
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/x64/e_sqlite3.dll
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+C:/Users/rodri/Documents/System of Information/MyTCC/Applications/Asp.net Core/Asp.Net-Application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+=======
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/new_dotnet/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc_dotnet/dotnet_app/dotnet_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/dotnet/dotnet_core_application/learning_dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+>>>>>>> a28ba50eb649be4f25b5923f3d0ba444b4448175
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/projects_bitbucket/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/projects_bitbucket/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csprojResolveAssemblyReference.cache
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/libe_sqlite3.so
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.deps.json
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.json
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.runtimeconfig.dev.json
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc/dotnetcore/bin/Debug/netcoreapp2.0/tcc_dotnet.pdb
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csprojAssemblyReference.cache
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.csproj.CoreCompileInputs.cache
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfoInputs.cache
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.AssemblyInfo.cs
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.dll
+/var/www/html/tcc/dotnetcore/obj/Debug/netcoreapp2.0/tcc_dotnet.pdb
